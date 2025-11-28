@@ -1,28 +1,30 @@
 # VynixC
 
-VynixC develops high-performance tools and modules for the :contentReference[oaicite:1]{index=1} framework, expanding its ecosystem with fast, modern, and scalable solutions.
+A VynixC desenvolve ferramentas e módulos de alta performance para o framework Kainure, expandindo seu ecossistema com soluções rápidas, modernas e escaláveis.
 
-## 🚀 About
-We create optimized utilities, APIs, integrations, and automation systems designed to enhance the development experience with Kainure.
+## 🚀 Sobre
+Criamos utilitários otimizados, APIs, integrações e sistemas de automação projetados para aprimorar a experiência de desenvolvimento no Kainure.
 
-## 🛠️ What We Build
-- High-performance modules  
-- Developer tools and utilities  
-- APIs and integration layers  
-- Command and include packages  
-- Framework extensions  
-- Experimental features for Kainure
+## 🛠️ O que Criamos
+- Módulos de alta performance  
+- Ferramentas e utilitários para desenvolvedores  
+- APIs e camadas de integração  
+- Pacotes de comandos e includes  
+- Extensões para o framework  
+- Funcionalidades experimentais para Kainure
 
-## 🔗 Ecosystem
-All our projects are lightweight, efficient, and easy to integrate into any Kainure-based environment.
+## 🔗 Ecossistema
+Todos os nossos projetos são leves, eficientes e fáceis de integrar em qualquer ambiente baseado em Kainure.
 
 ## 💬 Community
 Join our Discord community:  
 ➡️ **https://discord.gg/R6UFGk8fWd**
 
-## 🤝 Contributions
-Contributions, suggestions, and improvements are always welcome.  
-Feel free to open Issues or Pull Requests.
+## 🤝 Contribuições
+Contribuições, sugestões e melhorias são sempre bem-vindas.  
+Sinta-se à vontade para abrir Issues ou Pull Requests.
 
-## 📄 License
-Each repository includes its own license. Check the individual project for details.
+## 📄 Licença
+Cada repositório possui sua própria licença. Verifique o projeto individual para mais detalhes.
+
+---
