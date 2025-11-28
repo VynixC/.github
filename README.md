@@ -1,6 +1,6 @@
 # VynixC
 
-VynixC develops high-performance tools and modules for the Kainure framework, expanding its ecosystem with fast, modern, and scalable solutions.
+VynixC develops high-performance tools and modules for the [Kainure framework](https://github.com/aldergrounds/kainure), expanding its ecosystem with fast, modern, and scalable solutions.
 
 ## 🚀 About
 We build optimized utilities, APIs, integrations, and automation systems designed to enhance the Kainure development experience.
@@ -11,7 +11,7 @@ We build optimized utilities, APIs, integrations, and automation systems designe
 - APIs and integration layers  
 - Command and include packages  
 - Framework enhancements  
-- Experimental features for Kainure
+- Experimental features for [Kainure](https://github.com/aldergrounds/kainure)
 
 ## 🔗 Ecosystem
 Our projects are designed to be lightweight, efficient, and easy to integrate into any Kainure-based environment.
